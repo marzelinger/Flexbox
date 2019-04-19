@@ -25,7 +25,7 @@ Try out at least two different values for the **flex-direction** property and **
 #### The Items:
 Okay so, your layout is looking great... but our individual items have fallen behind. Right now our search bar doesn't really look like a search bar. Try using the **flex** property for the search bar item to accomplish the end result below:
 
-![](task_two.png)
+![](task_two_a.png)
 
 This looks great with a searchbar, but what about all of the other style navbars you've seen on the internet? Go into `nav.html` and comment out the search bar div. Your page should change to look like this:
 
