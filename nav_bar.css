@@ -8,20 +8,12 @@ body{
   width: 100%;
   background-color: lightgrey;
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
   flex-direction: row;
+  align-items: center;
 }
 
 .item {
   margin: 10px;
-}
-
-
-#logo {
-  flex: auto;
-  display: flex;
-  justify-content: start;
 }
 
 #circle {
@@ -29,11 +21,4 @@ body{
   width: 40px;
   background-color: green;
   border-radius: 50%;
-}
-
-#search {
-  flex: auto;
-  background-color: white;
-  border: solid thin grey;
-  padding: 10px;
 }
